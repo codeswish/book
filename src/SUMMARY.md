@@ -38,11 +38,9 @@
 
 - [Error Handling]()
 
-- [Lifetimes]()
-
-- [Generics](chZZ-generics.md)
-
-- [Traits]()
+- [Generics](ch10-00-generics.md)
+    - [Traits](ch10-01-traits.md)
+    - [Lifetimes](ch10-02-lifetimes.md)
 
 - [Closures]()
 
